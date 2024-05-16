@@ -23,6 +23,7 @@ Execute the C Program for the desired output.
 ## Write a C program that illustrates two processes communicating using shared memory.
 
 ```
+
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
@@ -53,7 +54,7 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/AasrithSairam/Linux-IPC-Shared-memory/assets/139331438/64891cb2-fcaf-4d30-ba69-949962887da4)
+![Uploading 319452375-7de7dbc5-ed84-4628-954a-b8b9419b9d25.png…]()
 
 
 
