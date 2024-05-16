@@ -49,13 +49,15 @@ int main()
 
 	return 0;
 }
+
+
+
 ```
 
 
 
 ## OUTPUT
-![Uploading 319452375-7de7dbc5-ed84-4628-954a-b8b9419b9d25.png…]()
-
+![319452375-7de7dbc5-ed84-4628-954a-b8b9419b9d25](https://github.com/Sanjayyy17/Linux-IPC-Shared-memory/assets/151901260/ac0a08ed-bdb6-4efe-bfaa-4c280ef05a5c)
 
 
 # RESULT:
